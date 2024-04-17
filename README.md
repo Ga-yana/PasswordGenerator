@@ -1,6 +1,10 @@
 # Password Generator
 
-This code is a React project. 
+
+## Click [here](https://reactpasswordgeneratorr.netlify.app/) to see it live.
+
+## This is a React project. 
+
 Have used react hooks: useRef, useCallback and useEffect.
 
 useEffect hook is used to handle data fetches and DOM manipulation. Here whenever the user clicks or changes certain options , the useEffect hook is triggered and a new password is generated. 
